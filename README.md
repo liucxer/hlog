@@ -11,4 +11,4 @@ INFO: 用于调试信息记录，仅用于调试使用
 * 日志带有颜色，利于本地调试
 
 # 测试示例
-![alt 测试样例](https://github.com/liucxer/hlog/log.jpg)
+![alt 测试样例](./log.jpg)
